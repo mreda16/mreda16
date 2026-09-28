@@ -136,15 +136,18 @@ I'm a **backend specialist** obsessed with building **high-performance, scalable
 
 ---
 
-## 📊 Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mreda16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreda16&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mreda16&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+| Metric | Details |
+|--------|---------|
+| 🔧 **Repositories** | Multiple full-stack backend systems, infrastructure automation, and DevOps projects |
+| 💾 **Primary Language** | Python (Django, FastAPI, async patterns) |
+| 🎯 **Focus Areas** | Backend architecture, distributed systems, cloud infrastructure |
+| 🚀 **Deployment Experience** | AWS, Kubernetes, Docker, multi-region cloud deployments |
+| 📈 **Specialization** | High-traffic system design, performance optimization, infrastructure automation |
+
 </div>
 
 ---
@@ -209,11 +212,9 @@ The backend/DevOps landscape evolves daily. I stay sharp on:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mreda16&style=flat-square&color=brightgreen" alt="Profile Views" />
-  
   <p>
-    <strong>Building systems that scale. Engineering infrastructure that resilient. Automating everything in between.</strong>
+    <strong>Building systems that scale. Engineering infrastructure that's resilient. Automating everything in between.</strong>
   </p>
   
-  <em>Last updated: September 2026</em>
+  <em>Backend • DevOps • Infrastructure • Distributed Systems</em>
 </div>
