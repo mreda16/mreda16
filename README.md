@@ -147,16 +147,6 @@ I'm a **backend specialist** obsessed with building **high-performance, scalable
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/mreda16">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mreda16&theme=tokyonight&hide_border=true" alt="Mohamed Reda's GitHub contribution streak" />
-  </a>
-</div>
-
-> If the cards take a moment to appear, GitHub's image proxy or the stats service may be refreshing its cache. Clicking any card opens the corresponding GitHub profile page.
-
 ---
 
 ## 🧬 Engineering Principles
