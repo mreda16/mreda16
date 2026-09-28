@@ -1,104 +1,219 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohamed+Reda+👨‍💻;Full+Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Backend%20%7C%20DevOps%20%7C%20Infrastructure;Building%20scalable%2C%20resilient%20systems;High-performance%20distributed%20architecture" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <p>
+    <strong>Backend Engineer | DevOps Architect | Infrastructure Specialist</strong><br>
+    Designing systems that handle millions of requests. Building for scale, resilience, and optimization.
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🔥 Who I Am
 
-I'm a **Full Stack Developer** passionate about creating elegant solutions to complex problems. With a focus on **enterprise-grade applications** and **user-centric design**, I build platforms that scale, perform, and delight.
+I'm a **backend specialist** obsessed with building **high-performance, scalable, and resilient systems**. My expertise lies in:
 
-> **My mission:** Transforming ideas into production-ready applications that make a real impact.
+- **Advanced backend architecture** for high-traffic environments
+- **Distributed systems** design and optimization
+- **Cloud infrastructure** automation and orchestration
+- **Data-intensive applications** with complex caching and indexing strategies
 
----
-
-## 💼 What I'm Currently Building
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🏪 Raqmiya</h3>
-      <p><strong>Digital Marketplace & Freelancing Hub</strong></p>
-      <p>A creator economy platform enabling digital product sales and service customization. Built with <strong>C#</strong> & modern architecture.</p>
-      <a href="https://github.com/mreda16/Raqmiya">→ Explore Raqmiya</a>
-    </td>
-    <td width="50%">
-      <h3>🍕 Food Delivery Platform</h3>
-      <p><strong>Enterprise E-Commerce Solution</strong></p>
-      <p>Full-stack food ordering and delivery system. Demonstrates scalable backend design, real-time tracking, and payment integration.</p>
-      <a href="https://github.com/mreda16/Food-Delivery">→ View Project</a>
-    </td>
-  </tr>
-</table>
+> **Philosophy:** Code is cheap. Systems are hard. I architect systems that breathe under pressure. 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Core Expertise
+
+### Backend & Application Layer
 
 <div align="center">
 
-**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-FF6B6B?style=for-the-badge)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+</div>
 
-**What I'm Mastering**
+### Database & Caching Mastery
 
-![Web Development](https://img.shields.io/badge/Full_Stack-Web-00D4FF?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Architecture-FF6B6B?style=for-the-badge)
-![E-Commerce](https://img.shields.io/badge/E_Commerce-Platforms-4CAF50?style=for-the-badge)
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+**Specializations:** Sharding | Replication | Partitioning | High-speed Indexing | Full-text Search
+
+</div>
+
+### Cloud & Infrastructure
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Specializations:** IaC | CI/CD Pipelines | Container Orchestration | Auto-scaling | Service Mesh
+
+</div>
+
+### Advanced Architecture Patterns
+
+<div align="center">
+
+![Microservices](https://img.shields.io/badge/Microservices-00D4FF?style=for-the-badge)
+![Message Queues](https://img.shields.io/badge/Message%20Queues-RabbitMQ%20%7C%20Kafka-FF6B6B?style=for-the-badge)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-NGINX%20%7C%20HAProxy-4CAF50?style=for-the-badge)
+![Event Streaming](https://img.shields.io/badge/Event%20Streaming-00D4FF?style=for-the-badge)
+![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-Advanced-FFD700?style=for-the-badge)
+
+</div>
+
+### DevOps & Observability
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F27830?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+**Specializations:** Distributed Tracing | Performance Monitoring | Log Aggregation | Alerting
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏗️ What I Build
+
+- **High-Traffic Backend Systems** — Handling millions of requests/day with sub-100ms latency
+- **Distributed Databases** — Sharding strategies, replication, consistency models, data integrity
+- **Real-time Data Processing** — Streaming pipelines, event-driven architectures, bulk indexing
+- **Cloud-Native Infrastructure** — Multi-region deployments, auto-scaling, disaster recovery
+- **DevOps Automation** — Infrastructure as Code, deployment pipelines, Kubernetes orchestration
+- **Performance Optimization** — Database query optimization, caching layers, connection pooling
+
+---
+
+## 🎯 Key Skills & Competencies
+
+| Domain | Skills |
+|--------|--------|
+| **Backend Development** | Python, Django, FastAPI, async patterns, API design, database optimization |
+| **Data & Caching** | Redis (clustering, pub/sub, streams), PostgreSQL (indexing, partitioning), Elasticsearch, MongoDB, DynamoDB |
+| **Distributed Systems** | Sharding, replication, consistency (CAP theorem), consensus algorithms, distributed tracing |
+| **Cloud Platforms** | AWS (EC2, RDS, ElastiCache, S3, Lambda, SQS, Kinesis, CloudFormation) |
+| **Container & Orchestration** | Docker, Docker Compose, Kubernetes (deployments, services, ingress, operators) |
+| **IaC & Configuration** | Terraform, CloudFormation, Ansible, Helm charts |
+| **CI/CD & Automation** | Jenkins, GitHub Actions, GitLab CI, ArgoCD, automated testing frameworks |
+| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack, DataDog, CloudWatch, distributed tracing |
+| **Message Queues** | RabbitMQ, Kafka, AWS SQS/SNS, Redis Streams |
+| **Load Balancing** | NGINX, HAProxy, AWS ELB/ALB, circuit breakers, rate limiting |
+
+---
+
+## 🧠 System Design Expertise
+
+```
+✓ Scalable REST & GraphQL APIs        ✓ Database sharding & replication
+✓ Caching architectures (multi-layer)  ✓ Event-driven systems
+✓ Microservices design patterns        ✓ Pub/Sub messaging
+✓ Real-time data streaming            ✓ Log aggregation & analysis
+✓ Load balancing & failover           ✓ Distributed transactions
+✓ Container orchestration              ✓ Infrastructure automation
+✓ Multi-region deployments            ✓ Disaster recovery strategies
+```
+
+---
+
+## 📊 Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mreda16&show_icons=true&theme=radical&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreda16&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mreda16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreda16&layout=compact&theme=tokyonight&hide=html,css" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mreda16&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🧬 Engineering Principles
 
-### 🎪 Project Showcase
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| **Raqmiya** | Creator marketplace with freelancing features | C#, .NET | Active |
-| **Food Delivery** | End-to-end order & delivery system | C#, Backend | Active |
-| **E-Commerce Platform** | Modern shopping experience | JavaScript, Frontend | Complete |
-| **Fruits Store** | Interactive product interface | HTML5, CSS | Complete |
+- **Scalability First** — Design systems that grow without breaking
+- **Resilience Over Speed** — Graceful degradation and fault tolerance matter more than raw performance
+- **Observability Embedded** — Every system ships with metrics, traces, and logs from day one
+- **Infrastructure as Code** — Everything reproducible, versioned, and auditable
+- **Performance by Design** — Caching, indexing, and optimization baked into architecture
+- **Security & Compliance** — Zero-trust principles, encryption, audit trails
 
 ---
 
-## 🎓 Philosophy & Approach
+## 🌍 Cloud & DevOps Mindset
 
-- ✨ **Clean Code First** — Readable, maintainable, scalable
-- 🔒 **Security-Minded** — Building trust with best practices
-- ⚡ **Performance-Driven** — Optimized for speed and UX
-- 🤝 **Collaboration** — Open to feedback and contributions
+- **Multi-cloud thinking** — AWS expertise with cloud-agnostic architecture
+- **GitOps workflows** — Infrastructure versioning and automated deployments
+- **Kubernetes-native** — Deep understanding of container orchestration patterns
+- **Infrastructure automation** — Reducing manual toil through Terraform and Ansible
+- **Disaster recovery** — Building systems that survive failures gracefully
+- **Cost optimization** — Right-sizing resources without sacrificing performance
 
 ---
 
-## 📫 Let's Connect
+## 💡 What Drives Me
+
+I thrive on challenges that others find intimidating:
+- **"How do we handle 1M requests/sec?"**
+- **"Our database is bottlenecking—how do we shard?"**
+- **"We need real-time search on massive datasets"**
+- **"Deploy this across 3 regions with zero downtime"**
+- **"Build an event processing pipeline that never loses data"**
+
+These problems fascinate me. I solve them systematically with architecture, not duct tape.
+
+---
+
+## 📚 Always Learning
+
+The backend/DevOps landscape evolves daily. I stay sharp on:
+- Emerging distributed systems patterns
+- New cloud technologies and optimizations
+- Performance tuning at scale
+- Observability and SRE practices
+- Infrastructure automation innovations
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mreda16)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mreda16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mreda16)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.reda16420@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mreda16)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mreda16&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mreda16&style=flat-square&color=brightgreen" alt="Profile Views" />
   
-  **Always learning. Always building. Always shipping.** 🚀
+  <p>
+    <strong>Building systems that scale. Engineering infrastructure that resilient. Automating everything in between.</strong>
+  </p>
+  
+  <em>Last updated: September 2026</em>
 </div>
