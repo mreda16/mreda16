@@ -1,228 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+%7C+DevOps+%7C+Infrastructure;Building+scalable%2C+resilient+systems;High-performance+distributed+architecture" alt="Backend, DevOps, and infrastructure engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=680&lines=Backend+Engineer;Distributed+Systems;Cloud+%26+DevOps" alt="Backend Engineer, Distributed Systems, Cloud and DevOps" />
 </div>
 
-<div align="center">
-  <p>
-    <strong>Backend Engineer | DevOps Architect | Infrastructure Specialist</strong><br>
-    Designing systems that handle millions of requests. Building for scale, resilience, and optimization.
-  </p>
-</div>
+<pre><code>
+[mreda16]
+Backend Engineer / DevOps / Infrastructure
+Python • Django • FastAPI • Redis • PostgreSQL • Elasticsearch • AWS • Kubernetes • Terraform
+</code></pre>
 
----
+I build systems that scale under real load.
 
-## 🔥 Who I Am
+I work across backend architecture, distributed data layers, cloud infrastructure, and automation. My focus is on performance, resilience, observability, and keeping systems reliable when traffic and complexity increase.
 
-I'm a **backend specialist** obsessed with building **high-performance, scalable, and resilient systems**. My expertise lies in:
+## Stack
 
-- **Advanced backend architecture** for high-traffic environments
-- **Distributed systems** design and optimization
-- **Cloud infrastructure** automation and orchestration
-- **Data-intensive applications** with complex caching and indexing strategies
-
-> **Philosophy:** Code is cheap. Systems are hard. I architect systems that breathe under pressure. 🚀
-
----
-
-## 💻 Core Expertise
-
-### Backend & Application Layer
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge)
-![Async/Await](https://img.shields.io/badge/Async%2FAwait-FF6B6B?style=for-the-badge)
-
-</div>
-
-### Database & Caching Mastery
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-**Specializations:** Sharding | Replication | Partitioning | High-speed Indexing | Full-text Search
-
-</div>
-
-### Cloud & Infrastructure
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Specializations:** IaC | CI/CD Pipelines | Container Orchestration | Auto-scaling | Service Mesh
-
-</div>
-
-### Advanced Architecture Patterns
-
-<div align="center">
-
-![Microservices](https://img.shields.io/badge/Microservices-00D4FF?style=for-the-badge)
-![Message Queues](https://img.shields.io/badge/Message%20Queues-RabbitMQ%20%7C%20Kafka-FF6B6B?style=for-the-badge)
-![Load Balancing](https://img.shields.io/badge/Load%20Balancing-NGINX%20%7C%20HAProxy-4CAF50?style=for-the-badge)
-![Event Streaming](https://img.shields.io/badge/Event%20Streaming-00D4FF?style=for-the-badge)
-![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-Advanced-FFD700?style=for-the-badge)
-
-</div>
-
-### DevOps & Observability
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F27830?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
-**Specializations:** Distributed Tracing | Performance Monitoring | Log Aggregation | Alerting
-
-</div>
-
----
-
-## 🏗️ What I Build
-
-- **High-Traffic Backend Systems** — Handling millions of requests/day with sub-100ms latency
-- **Distributed Databases** — Sharding strategies, replication, consistency models, data integrity
-- **Real-time Data Processing** — Streaming pipelines, event-driven architectures, bulk indexing
-- **Cloud-Native Infrastructure** — Multi-region deployments, auto-scaling, disaster recovery
-- **DevOps Automation** — Infrastructure as Code, deployment pipelines, Kubernetes orchestration
-- **Performance Optimization** — Database query optimization, caching layers, connection pooling
-
----
-
-## 🎯 Key Skills & Competencies
-
-| Domain | Skills |
-|--------|--------|
-| **Backend Development** | Python, Django, FastAPI, async patterns, API design, database optimization |
-| **Data & Caching** | Redis (clustering, pub/sub, streams), PostgreSQL (indexing, partitioning), Elasticsearch, MongoDB, DynamoDB |
-| **Distributed Systems** | Sharding, replication, consistency (CAP theorem), consensus algorithms, distributed tracing |
-| **Cloud Platforms** | AWS (EC2, RDS, ElastiCache, S3, Lambda, SQS, Kinesis, CloudFormation) |
-| **Container & Orchestration** | Docker, Docker Compose, Kubernetes (deployments, services, ingress, operators) |
-| **IaC & Configuration** | Terraform, CloudFormation, Ansible, Helm charts |
-| **CI/CD & Automation** | Jenkins, GitHub Actions, GitLab CI, ArgoCD, automated testing frameworks |
-| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack, DataDog, CloudWatch, distributed tracing |
-| **Message Queues** | RabbitMQ, Kafka, AWS SQS/SNS, Redis Streams |
-| **Load Balancing** | NGINX, HAProxy, AWS ELB/ALB, circuit breakers, rate limiting |
-
----
-
-## 🧠 System Design Expertise
-
-```
-✓ Scalable REST & GraphQL APIs         ✓ Database sharding & replication
-✓ Caching architectures (multi-layer)  ✓ Event-driven systems
-✓ Microservices design patterns        ✓ Pub/Sub messaging
-✓ Real-time data streaming              ✓ Log aggregation & analysis
-✓ Load balancing & failover             ✓ Distributed transactions
-✓ Container orchestration               ✓ Infrastructure automation
-✓ Multi-region deployments              ✓ Disaster recovery strategies
+```text
+Python, Django, FastAPI
+PostgreSQL, Redis, Elasticsearch, MongoDB, DynamoDB
+Docker, Kubernetes, AWS, Terraform, CI/CD
+Nginx, Kafka, RabbitMQ, Prometheus, Grafana
 ```
 
----
+## What I care about
 
-## 📊 GitHub Analytics
+```text
+High-traffic backend systems
+Sharding, replication, partitioning
+Caching strategy and query optimization
+Cloud-native deployment and autoscaling
+Observability and incident reduction
+Infrastructure as code
+```
 
-<div align="center">
-  <a href="https://github.com/mreda16">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mreda16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Mohamed Reda's GitHub statistics" />
-  </a>
-  <a href="https://github.com/mreda16">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreda16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Mohamed Reda's most used programming languages" />
-  </a>
-</div>
+## Mindset
 
-<br />
+```text
+- Scale before feature count.
+- Make failure graceful, not dramatic.
+- Measure before optimizing.
+- Automate infrastructure, not just code.
+- Build systems people can trust under load.
+```
 
-<div align="center">
-  <a href="https://github.com/mreda16">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mreda16&theme=tokyonight&hide_border=true" alt="Mohamed Reda's GitHub contribution streak" />
-  </a>
-</div>
+## Systems I work with
 
-> If the cards take a moment to appear, GitHub's image proxy or the stats service may be refreshing its cache. Clicking any card opens the corresponding GitHub profile page.
+```text
+REST / async APIs
+Distributed caching layers
+Search and indexing pipelines
+Event-driven services
+Multi-region and containerized deployments
+```
 
----
-
-## 🧬 Engineering Principles
-
-- **Scalability First** — Design systems that grow without breaking
-- **Resilience Over Speed** — Graceful degradation and fault tolerance matter more than raw performance
-- **Observability Embedded** — Every system ships with metrics, traces, and logs from day one
-- **Infrastructure as Code** — Everything reproducible, versioned, and auditable
-- **Performance by Design** — Caching, indexing, and optimization baked into architecture
-- **Security & Compliance** — Zero-trust principles, encryption, audit trails
-
----
-
-## 🌍 Cloud & DevOps Mindset
-
-- **Multi-cloud thinking** — AWS expertise with cloud-agnostic architecture
-- **GitOps workflows** — Infrastructure versioning and automated deployments
-- **Kubernetes-native** — Deep understanding of container orchestration patterns
-- **Infrastructure automation** — Reducing manual toil through Terraform and Ansible
-- **Disaster recovery** — Building systems that survive failures gracefully
-- **Cost optimization** — Right-sizing resources without sacrificing performance
-
----
-
-## 💡 What Drives Me
-
-I thrive on challenges that others find intimidating:
-
-- **"How do we handle 1M requests/sec?"**
-- **"Our database is bottlenecking—how do we shard?"**
-- **"We need real-time search on massive datasets"**
-- **"Deploy this across 3 regions with zero downtime"**
-- **"Build an event processing pipeline that never loses data"**
-
-These problems fascinate me. I solve them systematically with architecture, not duct tape.
-
----
-
-## 📚 Always Learning
-
-The backend/DevOps landscape evolves daily. I stay sharp on:
-
-- Emerging distributed systems patterns
-- New cloud technologies and optimizations
-- Performance tuning at scale
-- Observability and SRE practices
-- Infrastructure automation innovations
-
----
-
-## 🔗 Connect With Me
+## Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mreda16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mreda16)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.reda16420@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mreda16)
+| Metric | Details |
+|---|---|
+| Focus | Backend systems, scalable architecture, cloud infra |
+| Main stack | Python, Django, FastAPI, Redis, PostgreSQL, Elasticsearch |
+| Cloud | AWS, Docker, Kubernetes, Terraform |
+| Specialty | High-traffic systems, caching, data layer optimization |
+| Engineering goal | Reliability, performance, and maintainability at scale |
 
 </div>
 
----
+## Connect
 
-<div align="center">
-  <p>
-    <strong>Building systems that scale. Engineering infrastructure that's resilient. Automating everything in between.</strong>
-  </p>
-  <em>Backend • DevOps • Infrastructure • Distributed Systems</em>
-</div>
+```text
+GitHub: github.com/mreda16
+Email: m.reda16420@gmail.com
+```
+
+```text
+Building systems that scale. Shipping infrastructure that survives pressure.
+```
