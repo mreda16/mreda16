@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Backend%20%7C%20DevOps%20%7C%20Infrastructure;Building%20scalable%2C%20resilient%20systems;High-performance%20distributed%20architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+%7C+DevOps+%7C+Infrastructure;Building+scalable%2C+resilient+systems;High-performance+distributed+architecture" alt="Backend, DevOps, and infrastructure engineer" />
 </div>
 
 <div align="center">
@@ -125,30 +125,37 @@ I'm a **backend specialist** obsessed with building **high-performance, scalable
 ## 🧠 System Design Expertise
 
 ```
-✓ Scalable REST & GraphQL APIs        ✓ Database sharding & replication
+✓ Scalable REST & GraphQL APIs         ✓ Database sharding & replication
 ✓ Caching architectures (multi-layer)  ✓ Event-driven systems
 ✓ Microservices design patterns        ✓ Pub/Sub messaging
-✓ Real-time data streaming            ✓ Log aggregation & analysis
-✓ Load balancing & failover           ✓ Distributed transactions
-✓ Container orchestration              ✓ Infrastructure automation
-✓ Multi-region deployments            ✓ Disaster recovery strategies
+✓ Real-time data streaming              ✓ Log aggregation & analysis
+✓ Load balancing & failover             ✓ Distributed transactions
+✓ Container orchestration               ✓ Infrastructure automation
+✓ Multi-region deployments              ✓ Disaster recovery strategies
 ```
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-| Metric | Details |
-|--------|---------|
-| 🔧 **Repositories** | Multiple full-stack backend systems, infrastructure automation, and DevOps projects |
-| 💾 **Primary Language** | Python (Django, FastAPI, async patterns) |
-| 🎯 **Focus Areas** | Backend architecture, distributed systems, cloud infrastructure |
-| 🚀 **Deployment Experience** | AWS, Kubernetes, Docker, multi-region cloud deployments |
-| 📈 **Specialization** | High-traffic system design, performance optimization, infrastructure automation |
-
+  <a href="https://github.com/mreda16">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mreda16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Mohamed Reda's GitHub statistics" />
+  </a>
+  <a href="https://github.com/mreda16">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreda16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Mohamed Reda's most used programming languages" />
+  </a>
 </div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/mreda16">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mreda16&theme=tokyonight&hide_border=true" alt="Mohamed Reda's GitHub contribution streak" />
+  </a>
+</div>
+
+> If the cards take a moment to appear, GitHub's image proxy or the stats service may be refreshing its cache. Clicking any card opens the corresponding GitHub profile page.
 
 ---
 
@@ -177,6 +184,7 @@ I'm a **backend specialist** obsessed with building **high-performance, scalable
 ## 💡 What Drives Me
 
 I thrive on challenges that others find intimidating:
+
 - **"How do we handle 1M requests/sec?"**
 - **"Our database is bottlenecking—how do we shard?"**
 - **"We need real-time search on massive datasets"**
@@ -190,6 +198,7 @@ These problems fascinate me. I solve them systematically with architecture, not 
 ## 📚 Always Learning
 
 The backend/DevOps landscape evolves daily. I stay sharp on:
+
 - Emerging distributed systems patterns
 - New cloud technologies and optimizations
 - Performance tuning at scale
@@ -215,6 +224,5 @@ The backend/DevOps landscape evolves daily. I stay sharp on:
   <p>
     <strong>Building systems that scale. Engineering infrastructure that's resilient. Automating everything in between.</strong>
   </p>
-  
   <em>Backend • DevOps • Infrastructure • Distributed Systems</em>
 </div>
