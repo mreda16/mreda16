@@ -20,7 +20,7 @@ I'm a **backend specialist** obsessed with building **high-performance, scalable
 - **Cloud infrastructure** automation and orchestration
 - **Data-intensive applications** with complex caching and indexing strategies
 
-> **Philosophy:** Code is cheap. Systems are hard. I architect systems that breathe under pressure. 🚀
+> **Philosophy:** Code is cheap. Systems are hard. I architect systems that breathe under pressure.
 
 ---
 
