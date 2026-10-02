@@ -155,8 +155,6 @@ I'm a **backend specialist** obsessed with building **high-performance, scalable
   </a>
 </div>
 
-> If the cards take a moment to appear, GitHub's image proxy or the stats service may be refreshing its cache. Clicking any card opens the corresponding GitHub profile page.
-
 ---
 
 ## 🧬 Engineering Principles
