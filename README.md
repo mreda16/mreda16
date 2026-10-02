@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+%7C+DevOps+%7C+Infrastructure;Building+scalable+systems" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=600&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+%7C+DevOps+%7C+Infrastructure;Building+scalable+systems;Python+%7C+Rust+%7C+Go;Java+Spring+Boot+%7C+Cloud" alt="typing banner" />
 </div>
 
 <div align="center">
@@ -25,10 +25,11 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-FF6B6B?style=for-the-badge)
 
 </div>
 
-### Database & Caching
+### Database & Caching Mastery
 
 <div align="center">
 
@@ -60,6 +61,7 @@
 ![Message Queues](https://img.shields.io/badge/Message%20Queues-RabbitMQ%20%7C%20Kafka-FF6B6B?style=for-the-badge)
 ![Load Balancing](https://img.shields.io/badge/Load%20Balancing-NGINX%20%7C%20HAProxy-4CAF50?style=for-the-badge)
 ![Event Streaming](https://img.shields.io/badge/Event%20Streaming-00D4FF?style=for-the-badge)
+![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-Advanced-FFD700?style=for-the-badge)
 
 </div>
 
@@ -92,14 +94,12 @@
 
 | Domain | Expertise |
 |--------|-----------|
-| **Backend Development** | Python (Django, FastAPI), Rust, Go, Java Spring Boot, async patterns, API design |
-| **Data & Caching** | Redis, PostgreSQL optimization, Elasticsearch, MongoDB, DynamoDB |
-| **Distributed Systems** | Sharding, replication, consistency models, consensus algorithms |
-| **Cloud Platforms** | AWS (EC2, RDS, ElastiCache, S3, Lambda, SQS, Kinesis) |
-| **Container & Orchestration** | Docker, Kubernetes, deployment strategies |
-| **IaC & Automation** | Terraform, CloudFormation, Ansible, Helm |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, ArgoCD |
-| **Monitoring** | Prometheus, Grafana, ELK Stack, DataDog, distributed tracing |
+| **Backend Development** | Python, Django, FastAPI, Rust, Go, Java Spring Boot, async systems, API design |
+| **Data & Caching** | PostgreSQL, Redis, Elasticsearch, MongoDB, DynamoDB, query optimization |
+| **Distributed Systems** | Sharding, replication, consistency models, event-driven design |
+| **Cloud Platforms** | AWS, Docker, Kubernetes, Terraform, deployment automation |
+| **DevOps & CI/CD** | Jenkins, GitHub Actions, GitLab CI, ArgoCD, infrastructure pipelines |
+| **Monitoring & Reliability** | Prometheus, Grafana, ELK, DataDog, distributed tracing |
 
 ---
 
